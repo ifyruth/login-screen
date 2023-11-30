@@ -149,7 +149,7 @@
   <data name="pictureBox3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAE0AAABHCAYAAABCksrWAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAAEDVJREFUeF7t24evFcUXB/D3L0E0FsQK2HtFsYKCBRG7EuwdbCgaFRUxorGggr2C
+        wQAADsEBuJFr7QAAEDVJREFUeF7t24evFcUXB/D3L0E0FsQK2HtFsYKCBRG7EuwdbCgaFRUxorGggr2C
         XSyo2AARewUVFRUQ55fPiYcsy+WV+yNyL3mTnOy+2ZlTvnPa7oWOr7/+uvz++++ld3R/9ILWxOgFrYnR
         C1oToxe0JkYvaE2MXtCaGL2gNTF6BNo///wTtGrVqrantKWZ0W3QCFi5cmX5888/y6+//lp++umnsnjx
         4vLDDz+sQd9///1acxuC6JHk7x9//DH0pffSpUvLsmXLyooVK5oCrtugOR2AEfrVV1+VBQsWlA8++KDM
@@ -411,7 +411,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFYAAABTCAYAAAAFm/BEAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAADRpJREFUeF7tnXlY1NUax23BDW+ZCSI7AoIKpiyCZG5taoBlarl106f03iyte7W8
+        wQAADsEBuJFr7QAADRpJREFUeF7tnXlY1NUax23BDW+ZCSI7AoIKpiyCZG5taoBlarl106f03iyte7W8
         XbNu+63bIlaPT1nZvmjrY2rZQ9jTRQ0oMcUuiyKpqVBuwLB/7/s946+GmQMMiTLMzB/fZ5yZ3zln3s/v
         /b3ve87v56FTRUUF3Gp7ucGeIbnBniH9IbCVourKCtSK6k3OL9pJe2m3jodOrQJrEnGgcnktOFaJzFIT
         vjxswqbDVU4r2kc7aS/tpv3koONjKbvB8qwdL6/AFzLYf/bWYMbOegzJaoDfFsAnE+jrhKJdtI92zhR7
@@ -600,7 +600,7 @@
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB0AAAAWCAYAAAA8VJfMAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wgAADsIBFShKgAAABANJREFUSEullddLJU0QxfdfVBFzxoyKYsQsBsyKWTCAIPqgIoioiIo5o2JWzDkH
+        wQAADsEBuJFr7QAABANJREFUSEullddLJU0QxfdfVBFzxoyKYsQsBsyKWTCAIPqgIoioiIo5o2JWzDkH
         xMdafgU9zPXe74PdfSjunZ7uPqdOnar59fDwIP8Sj4+P8vT0ZAXPrvbZ469Bufz9/V2Brq6urLi7u5OP
         jw95eXlxeY74K9DX11e5ubmR8fFxaWtrk+rqaqmsrJSqqippbGyUwcFB2d7elre3NyX18/wfg5LBwcGB
         1NbWSmBgoEREREhBQYE+l5SUSFxcnHh7e0taWpr09/fLxcWFPD8/O9zxv6CwhC1ymdjY2JDU1FQJDw+X
@@ -644,6 +644,9 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="process1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -655,6 +658,12 @@
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Photoshop 2023 Installer</value>
+  </data>
+  <data name="&gt;&gt;process1.Name" xml:space="preserve">
+    <value>process1</value>
+  </data>
+  <data name="&gt;&gt;process1.Type" xml:space="preserve">
+    <value>System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>photoshop</value>
